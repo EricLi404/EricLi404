@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Middle Platform** with **Golang&Python**
 - 🌱 I’m currently learning **Algorithm**😭
 - 💬 Ask me about ... 
-- 📫 How to reach me: [http://me.ericli.top](http://me.ericli.top)
+- 📫 How to reach me: [http://www.ericli.top](http://www.ericli.top)
 - 😄 Pronouns: ♂︎
 - ⚡ Blog: [http://csdn.ericli.top](http://csdn.ericli.top)
 
