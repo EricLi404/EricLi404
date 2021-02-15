@@ -2,7 +2,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=EricLi404&hide_border=true&show_icons=true&line_height=30)
+![](https://github-readme-stats.vercel.app/api?username=EricLi404&hide_border=true&show_icons=true&line_height=30&count_private=true&hide=contribs)
 
 Here are some ideas to get you started:
 
