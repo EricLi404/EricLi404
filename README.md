@@ -6,9 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🎙 Clubhouse：**Eric li <@ericli404>**
 - 🌱 I’m currently learning **Pour-Over Coffee**
-- 🔭 I’m currently working on **Middle Platform** with **Golang && Python**
+- 🔭 I’m currently working on **Middle Platform** with **Golang && OpenResty**
 - ⚡ Blog: [http://csdn.ericli.top](http://csdn.ericli.top)
 
 
