@@ -12,5 +12,6 @@
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itibbers&hide_title=true&show_icons=true&theme=tokyonight" /> -->
-
+<!-- 
 <a href="https://github.com/EricLi404" target="_blank"><img alt="EricLi404" src="https://badges.pufler.dev/visits/EricLi404/EricLi404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+ -->
